@@ -11,4 +11,4 @@ Below is a list I've been curating of free tools I use when studying new IT conc
 <br/>
 
 ### SUBNETTING RESOURCES
-- [subnetipv4]([https://jsonplaceholder.typicode.com](https://subnetipv4.com): Free online subnetting practise tool with how-to youtube videos!
+- [subnetipv4](https://subnetipv4.com): Free online subnetting practise tool with how-to youtube videos!
