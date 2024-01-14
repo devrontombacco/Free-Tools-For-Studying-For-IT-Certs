@@ -7,8 +7,8 @@ Below is a list I've been curating of free tools I use when studying new IT conc
 
 ### MNEMONICS
 - [mnemonic generator](https://www.mnemonicgenerator.com): When trying to remember information in a list, type in the list and this tool will generate a sentence that is easy to remember.
-- 
+  
 <br/>
 
 ### SUBNETTING RESOURCES
-- [subnetipv4]([https://jsonplaceholder.typicode.com](https://subnetipv4.com)): Free online subnetting practise tool with how-to youtube videos!
+- [subnetipv4]([https://jsonplaceholder.typicode.com](https://subnetipv4.com): Free online subnetting practise tool with how-to youtube videos!
