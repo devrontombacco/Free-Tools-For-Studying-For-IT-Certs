@@ -5,7 +5,7 @@ Below is a list I've been curating of free tools I use when studying new IT conc
 
 <br/>
 ### MAC ADDRESSES
--[mac lookup](https://maclookup.app): check the OUI of a MAC Address. 
+- [mac lookup](https://maclookup.app): check the OUI of a MAC Address. 
 <br/>
 
 ### MNEMONICS
